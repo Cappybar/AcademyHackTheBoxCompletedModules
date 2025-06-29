@@ -1,6 +1,8 @@
 # AcademyHackTheBoxCompletedModules
 list of completed modules on Hack The Box Academy website
 
+also included python script that scraps for completed achievements
+
 Easy:
 
 Medium:
