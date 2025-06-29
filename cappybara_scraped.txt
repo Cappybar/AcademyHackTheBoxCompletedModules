@@ -1,0 +1,62 @@
+[!] Completed Intro to Academy: 
+- https://academy.hackthebox.com/achievement/89408/15
+[!] Completed Cracking Passwords with Hashcat: 
+- https://academy.hackthebox.com/achievement/89408/20
+[!] Completed Introduction to Bash Scripting: 
+- https://academy.hackthebox.com/achievement/89408/21
+[!] Completed File Inclusion: 
+- https://academy.hackthebox.com/achievement/89408/23
+[!] Completed File Transfers: 
+- https://academy.hackthebox.com/achievement/89408/24
+[!] Completed Stack-Based Buffer Overflows on Linux x86: 
+- https://academy.hackthebox.com/achievement/89408/31
+[!] Completed SQL Injection Fundamentals: 
+- https://academy.hackthebox.com/achievement/89408/33
+[!] Completed Introduction to Networking: 
+- https://academy.hackthebox.com/achievement/89408/34
+[!] Completed Web Requests: 
+- https://academy.hackthebox.com/achievement/89408/35
+[!] Completed Using the Metasploit Framework: 
+- https://academy.hackthebox.com/achievement/89408/39
+[!] Completed JavaScript Deobfuscation: 
+- https://academy.hackthebox.com/achievement/89408/41
+[!] Completed Windows Fundamentals: 
+- https://academy.hackthebox.com/achievement/89408/49
+[!] Completed Attacking Web Applications with Ffuf: 
+- https://academy.hackthebox.com/achievement/89408/54
+[!] Completed SQLMap Essentials: 
+- https://academy.hackthebox.com/achievement/89408/58
+[!] Completed Introduction to Web Applications: 
+- https://academy.hackthebox.com/achievement/89408/75
+[!] Completed Getting Started: 
+- https://academy.hackthebox.com/achievement/89408/77
+[!] Completed Intro to Network Traffic Analysis: 
+- https://academy.hackthebox.com/achievement/89408/81
+[!] Completed Intro to Assembly Language: 
+- https://academy.hackthebox.com/achievement/89408/85
+[!] Completed Stack-Based Buffer Overflows on Windows x86: 
+- https://academy.hackthebox.com/achievement/89408/89
+[!] Completed Command Injections: 
+- https://academy.hackthebox.com/achievement/89408/109
+[!] Completed Footprinting: 
+- https://academy.hackthebox.com/achievement/89408/112
+[!] Completed Shells &amp; Payloads: 
+- https://academy.hackthebox.com/achievement/89408/115
+[!] Completed Attacking Common Services: 
+- https://academy.hackthebox.com/achievement/89408/116
+[!] Completed Introduction to Windows Command Line: 
+- https://academy.hackthebox.com/achievement/89408/167
+[!] Completed Game Hacking Fundamentals: 
+- https://academy.hackthebox.com/achievement/89408/182
+[!] Completed HTTPs/TLS Attacks: 
+- https://academy.hackthebox.com/achievement/89408/184
+[!] Completed Game Reversing &amp; Modding: 
+- https://academy.hackthebox.com/achievement/89408/208
+[!] Completed Introduction to Malware Analysis: 
+- https://academy.hackthebox.com/achievement/89408/227
+[!] Completed Introduction to C#: 
+- https://academy.hackthebox.com/achievement/89408/228
+[!] Completed Brief Intro to Hardware Attacks: 
+- https://academy.hackthebox.com/achievement/89408/230
+[!] Completed Introduction to Windows Evasion Techniques: 
+- https://academy.hackthebox.com/achievement/89408/254

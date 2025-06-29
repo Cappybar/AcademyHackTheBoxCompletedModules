@@ -9,11 +9,13 @@ def scrap(r):
 base_url = 'https://academy.hackthebox.com/achievement/'
 cappybara_id = '89408'
 module_amount = 500
-
-for i in range(module_amount):
-    request_link = base_url+cappybara_id+"/"+str(i)
-    res = req.get(request_link)
-    if res.status_code == 200:
-        print(f"[!] {scrap(res)}: \n- {request_link}")
+with open("cappybara_scraped.txt","w") as f:
+    for i in range(module_amount):
+        request_link = base_url+cappybara_id+"/"+str(i)
+        res = req.get(request_link)
+        if res.status_code == 200:
+            output_text = f"[!] {scrap(res)}: \n- {request_link}"
+            f.write(output_text+'\n')
+            print(output_text)
 
 
