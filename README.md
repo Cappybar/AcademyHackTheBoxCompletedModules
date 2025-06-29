@@ -13,6 +13,8 @@ Medium:
 
 [Stack-Based Buffer Overflows on Windows x86](https://academy.hackthebox.com/achievement/89408/89)
 
+[Stack-Based Buffer Overflows on Linux x86](https://academy.hackthebox.com/achievement/89408/31)
+
 Hard:
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
