@@ -13,7 +13,5 @@ Medium:
 
 [Stack-Based Buffer Overflows on Windows x86](https://academy.hackthebox.com/achievement/89408/89)
 Hard:
-<br>
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
-<br>
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
