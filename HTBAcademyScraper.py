@@ -13,7 +13,7 @@ def scrap(r):
     return result
 def difficulty(r):
     for d in diff:
-        if r.find(d) > -1:
+        if r.find('>'+d+'<') > -1:
             return d
 
 def createREADME(module_map):

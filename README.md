@@ -7,8 +7,6 @@ also included python script that scraps for completed achievements
 
 [Intro to Academy](https://academy.hackthebox.com/achievement/89408/15)
 
-[SQL Injection Fundamentals](https://academy.hackthebox.com/achievement/89408/33)
-
 [Introduction to Networking](https://academy.hackthebox.com/achievement/89408/34)
 
 [Web Requests](https://academy.hackthebox.com/achievement/89408/35)
@@ -18,10 +16,6 @@ also included python script that scraps for completed achievements
 [Introduction to Web Applications](https://academy.hackthebox.com/achievement/89408/75)
 
 [Getting Started](https://academy.hackthebox.com/achievement/89408/77)
-
-[Game Hacking Fundamentals](https://academy.hackthebox.com/achievement/89408/182)
-
-[Game Reversing &amp; Modding](https://academy.hackthebox.com/achievement/89408/208)
 
 ## Easy
 
@@ -49,6 +43,8 @@ also included python script that scraps for completed achievements
 
 [Stack-Based Buffer Overflows on Linux x86](https://academy.hackthebox.com/achievement/89408/31)
 
+[SQL Injection Fundamentals](https://academy.hackthebox.com/achievement/89408/33)
+
 [Intro to Network Traffic Analysis](https://academy.hackthebox.com/achievement/89408/81)
 
 [Intro to Assembly Language](https://academy.hackthebox.com/achievement/89408/85)
@@ -63,7 +59,11 @@ also included python script that scraps for completed achievements
 
 [Attacking Common Services](https://academy.hackthebox.com/achievement/89408/116)
 
+[Game Hacking Fundamentals](https://academy.hackthebox.com/achievement/89408/182)
+
 [HTTPs/TLS Attacks](https://academy.hackthebox.com/achievement/89408/184)
+
+[Game Reversing &amp; Modding](https://academy.hackthebox.com/achievement/89408/208)
 
 [Brief Intro to Hardware Attacks](https://academy.hackthebox.com/achievement/89408/230)
 
