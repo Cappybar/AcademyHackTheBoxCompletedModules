@@ -9,6 +9,8 @@ also included python script that scraps for completed achievements
 
 [Intro to Academy](https://academy.hackthebox.com/achievement/89408/15)
 
+[Linux Fundamentals](https://academy.hackthebox.com/achievement/89408/18)
+
 [Introduction to Networking](https://academy.hackthebox.com/achievement/89408/34)
 
 [Web Requests](https://academy.hackthebox.com/achievement/89408/35)
