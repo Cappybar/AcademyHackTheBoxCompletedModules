@@ -5,6 +5,8 @@ also included python script that scraps for completed achievements
 
 ## Fundamental
 
+[Learning Process](https://academy.hackthebox.com/achievement/89408/9)
+
 [Intro to Academy](https://academy.hackthebox.com/achievement/89408/15)
 
 [Introduction to Networking](https://academy.hackthebox.com/achievement/89408/34)
