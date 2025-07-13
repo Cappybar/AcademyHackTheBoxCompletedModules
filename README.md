@@ -21,7 +21,13 @@ also included python script that scraps for completed achievements
 
 [Getting Started](https://academy.hackthebox.com/achievement/89408/77)
 
+[Setting Up](https://academy.hackthebox.com/achievement/89408/87)
+
+[Penetration Testing Process](https://academy.hackthebox.com/achievement/89408/90)
+
 ## Easy
+
+[Network Enumeration with Nmap](https://academy.hackthebox.com/achievement/89408/19)
 
 [Introduction to Bash Scripting](https://academy.hackthebox.com/achievement/89408/21)
 
@@ -32,6 +38,8 @@ also included python script that scraps for completed achievements
 [Attacking Web Applications with Ffuf](https://academy.hackthebox.com/achievement/89408/54)
 
 [SQLMap Essentials](https://academy.hackthebox.com/achievement/89408/58)
+
+[Introduction to Python 3](https://academy.hackthebox.com/achievement/89408/88)
 
 [Introduction to Windows Command Line](https://academy.hackthebox.com/achievement/89408/167)
 
