@@ -41,6 +41,8 @@ also included python script that scraps for completed achievements
 
 [Introduction to Python 3](https://academy.hackthebox.com/achievement/89408/88)
 
+[Information Gathering - Web Edition](https://academy.hackthebox.com/achievement/89408/144)
+
 [Introduction to Windows Command Line](https://academy.hackthebox.com/achievement/89408/167)
 
 [Introduction to C#](https://academy.hackthebox.com/achievement/89408/228)
