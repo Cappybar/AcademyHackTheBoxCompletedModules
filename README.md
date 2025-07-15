@@ -81,6 +81,8 @@ also included python script that scraps for completed achievements
 
 [Brief Intro to Hardware Attacks](https://academy.hackthebox.com/achievement/89408/230)
 
+[Wi-Fi Password Cracking Techniques](https://academy.hackthebox.com/achievement/89408/312)
+
 ## Hard
 
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
