@@ -37,9 +37,13 @@ also included python script that scraps for completed achievements
 
 [Attacking Web Applications with Ffuf](https://academy.hackthebox.com/achievement/89408/54)
 
+[Login Brute Forcing](https://academy.hackthebox.com/achievement/89408/57)
+
 [SQLMap Essentials](https://academy.hackthebox.com/achievement/89408/58)
 
 [Introduction to Python 3](https://academy.hackthebox.com/achievement/89408/88)
+
+[Vulnerability Assessment](https://academy.hackthebox.com/achievement/89408/108)
 
 [Information Gathering - Web Edition](https://academy.hackthebox.com/achievement/89408/144)
 
