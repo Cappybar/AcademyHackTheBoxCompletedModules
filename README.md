@@ -27,6 +27,8 @@ also included python script that scraps for completed achievements
 
 [Incident Handling Process](https://academy.hackthebox.com/achievement/89408/148)
 
+[MacOS Fundamentals](https://academy.hackthebox.com/achievement/89408/157)
+
 [Network Foundations](https://academy.hackthebox.com/achievement/89408/289)
 
 [Introduction to Information Security](https://academy.hackthebox.com/achievement/89408/293)
@@ -59,6 +61,8 @@ also included python script that scraps for completed achievements
 
 [Introduction to C#](https://academy.hackthebox.com/achievement/89408/228)
 
+[Pentest in a Nutshell](https://academy.hackthebox.com/achievement/89408/296)
+
 ## Medium
 
 [Cracking Passwords with Hashcat](https://academy.hackthebox.com/achievement/89408/20)
@@ -66,6 +70,8 @@ also included python script that scraps for completed achievements
 [File Inclusion](https://academy.hackthebox.com/achievement/89408/23)
 
 [File Transfers](https://academy.hackthebox.com/achievement/89408/24)
+
+[DNS Enumeration Using Python](https://academy.hackthebox.com/achievement/89408/27)
 
 [Stack-Based Buffer Overflows on Linux x86](https://academy.hackthebox.com/achievement/89408/31)
 
