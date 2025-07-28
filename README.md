@@ -25,6 +25,14 @@ also included python script that scraps for completed achievements
 
 [Penetration Testing Process](https://academy.hackthebox.com/achievement/89408/90)
 
+[Incident Handling Process](https://academy.hackthebox.com/achievement/89408/148)
+
+[Network Foundations](https://academy.hackthebox.com/achievement/89408/289)
+
+[Introduction to Information Security](https://academy.hackthebox.com/achievement/89408/293)
+
+[Introduction to Penetration Testing](https://academy.hackthebox.com/achievement/89408/295)
+
 ## Easy
 
 [Network Enumeration with Nmap](https://academy.hackthebox.com/achievement/89408/19)
