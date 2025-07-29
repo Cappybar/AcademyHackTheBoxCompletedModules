@@ -37,6 +37,8 @@ also included python script that scraps for completed achievements
 
 ## Easy
 
+[Hacking WordPress](https://academy.hackthebox.com/achievement/89408/17)
+
 [Network Enumeration with Nmap](https://academy.hackthebox.com/achievement/89408/19)
 
 [Introduction to Bash Scripting](https://academy.hackthebox.com/achievement/89408/21)
