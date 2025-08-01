@@ -61,6 +61,8 @@ also included python script that scraps for completed achievements
 
 [Introduction to Windows Command Line](https://academy.hackthebox.com/achievement/89408/167)
 
+[Security Monitoring &amp; SIEM Fundamentals](https://academy.hackthebox.com/achievement/89408/211)
+
 [Introduction to C#](https://academy.hackthebox.com/achievement/89408/228)
 
 [Pentest in a Nutshell](https://academy.hackthebox.com/achievement/89408/296)
@@ -98,6 +100,8 @@ also included python script that scraps for completed achievements
 [HTTPs/TLS Attacks](https://academy.hackthebox.com/achievement/89408/184)
 
 [Game Reversing &amp; Modding](https://academy.hackthebox.com/achievement/89408/208)
+
+[Windows Event Logs &amp; Finding Evil](https://academy.hackthebox.com/achievement/89408/216)
 
 [Brief Intro to Hardware Attacks](https://academy.hackthebox.com/achievement/89408/230)
 
