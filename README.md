@@ -101,6 +101,8 @@ also included python script that scraps for completed achievements
 
 [Game Reversing &amp; Modding](https://academy.hackthebox.com/achievement/89408/208)
 
+[Introduction to Threat Hunting &amp; Hunting With Elastic](https://academy.hackthebox.com/achievement/89408/214)
+
 [Windows Event Logs &amp; Finding Evil](https://academy.hackthebox.com/achievement/89408/216)
 
 [Brief Intro to Hardware Attacks](https://academy.hackthebox.com/achievement/89408/230)
