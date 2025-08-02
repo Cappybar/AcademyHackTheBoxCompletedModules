@@ -1,7 +1,14 @@
 # AcademyHackTheBoxCompletedModules
-list of completed modules on Hack The Box Academy website
+list of my completed modules on Hack The Box Academy website
 
 also included python script that scraps for completed achievements
+
+## Completed paths
+[Cracking into Hack the Box](https://academy.hackthebox.com/achievement/89408/path/13)
+
+[Intro to Binary Exploitation](https://academy.hackthebox.com/achievement/89408/path/18)
+
+[Junior Cybersecurity Analyst](https://academy.hackthebox.com/achievement/89408/path/419)
 
 ## Fundamental
 
