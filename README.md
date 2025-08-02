@@ -4,6 +4,8 @@ list of my completed modules on Hack The Box Academy website
 also included python script that scraps for completed achievements
 
 ## Completed paths
+[Basic Toolset](https://academy.hackthebox.com/achievement/89408/path/9)
+
 [Cracking into Hack the Box](https://academy.hackthebox.com/achievement/89408/path/13)
 
 [Intro to Binary Exploitation](https://academy.hackthebox.com/achievement/89408/path/18)
@@ -63,6 +65,8 @@ also included python script that scraps for completed achievements
 [Introduction to Python 3](https://academy.hackthebox.com/achievement/89408/88)
 
 [Vulnerability Assessment](https://academy.hackthebox.com/achievement/89408/108)
+
+[Using Web Proxies](https://academy.hackthebox.com/achievement/89408/110)
 
 [Information Gathering - Web Edition](https://academy.hackthebox.com/achievement/89408/144)
 
