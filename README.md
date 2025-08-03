@@ -1,4 +1,4 @@
-# AcademyHackTheBoxCompletedModules
+# Academy Hack The Box Completed Modules
 list of my completed modules on Hack The Box Academy website
 
 also included python script that scraps for completed achievements
@@ -115,6 +115,8 @@ also included python script that scraps for completed achievements
 [Introduction to Threat Hunting &amp; Hunting With Elastic](https://academy.hackthebox.com/achievement/89408/214)
 
 [Windows Event Logs &amp; Finding Evil](https://academy.hackthebox.com/achievement/89408/216)
+
+[Wi-Fi Penetration Testing Basics](https://academy.hackthebox.com/achievement/89408/222)
 
 [Brief Intro to Hardware Attacks](https://academy.hackthebox.com/achievement/89408/230)
 
