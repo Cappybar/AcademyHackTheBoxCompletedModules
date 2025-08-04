@@ -110,6 +110,8 @@ also included python script that scraps for completed achievements
 
 [HTTPs/TLS Attacks](https://academy.hackthebox.com/achievement/89408/184)
 
+[Attacking Wi-Fi Protected Setup (WPS)](https://academy.hackthebox.com/achievement/89408/186)
+
 [Game Reversing &amp; Modding](https://academy.hackthebox.com/achievement/89408/208)
 
 [Introduction to Threat Hunting &amp; Hunting With Elastic](https://academy.hackthebox.com/achievement/89408/214)

@@ -29,7 +29,7 @@ def jobRolePath(f):
 
 def createREADME(module_map):
     with open("README.md","w") as f:
-        f.write("""# AcademyHackTheBoxCompletedModules
+        f.write("""# Academy Hack The Box Completed Modules
 list of my completed modules on Hack The Box Academy website
 
 also included python script that scraps for completed achievements
