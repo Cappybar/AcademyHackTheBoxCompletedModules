@@ -64,6 +64,8 @@ also included python script that scraps for completed achievements
 
 [Introduction to Python 3](https://academy.hackthebox.com/achievement/89408/88)
 
+[Cross-Site Scripting (XSS)](https://academy.hackthebox.com/achievement/89408/103)
+
 [Vulnerability Assessment](https://academy.hackthebox.com/achievement/89408/108)
 
 [Using Web Proxies](https://academy.hackthebox.com/achievement/89408/110)
@@ -105,6 +107,8 @@ also included python script that scraps for completed achievements
 [Shells &amp; Payloads](https://academy.hackthebox.com/achievement/89408/115)
 
 [Attacking Common Services](https://academy.hackthebox.com/achievement/89408/116)
+
+[File Upload Attacks](https://academy.hackthebox.com/achievement/89408/136)
 
 [Game Hacking Fundamentals](https://academy.hackthebox.com/achievement/89408/182)
 
