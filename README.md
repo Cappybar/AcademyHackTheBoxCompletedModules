@@ -110,6 +110,8 @@ also included python script that scraps for completed achievements
 
 [File Upload Attacks](https://academy.hackthebox.com/achievement/89408/136)
 
+[Server-side Attacks](https://academy.hackthebox.com/achievement/89408/145)
+
 [Game Hacking Fundamentals](https://academy.hackthebox.com/achievement/89408/182)
 
 [HTTPs/TLS Attacks](https://academy.hackthebox.com/achievement/89408/184)
