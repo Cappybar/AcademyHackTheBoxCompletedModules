@@ -94,6 +94,8 @@ also included python script that scraps for completed achievements
 
 [SQL Injection Fundamentals](https://academy.hackthebox.com/achievement/89408/33)
 
+[Broken Authentication](https://academy.hackthebox.com/achievement/89408/80)
+
 [Intro to Network Traffic Analysis](https://academy.hackthebox.com/achievement/89408/81)
 
 [Intro to Assembly Language](https://academy.hackthebox.com/achievement/89408/85)
