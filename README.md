@@ -110,6 +110,8 @@ also included python script that scraps for completed achievements
 
 [Attacking Common Services](https://academy.hackthebox.com/achievement/89408/116)
 
+[Web Attacks](https://academy.hackthebox.com/achievement/89408/134)
+
 [File Upload Attacks](https://academy.hackthebox.com/achievement/89408/136)
 
 [Server-side Attacks](https://academy.hackthebox.com/achievement/89408/145)
