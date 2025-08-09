@@ -8,6 +8,8 @@ also included python script that scraps for completed achievements
 
 [Cracking into Hack the Box](https://academy.hackthebox.com/achievement/89408/path/13)
 
+[Bug Bounty Hunter](https://academy.hackthebox.com/achievement/89408/path/17)
+
 [Intro to Binary Exploitation](https://academy.hackthebox.com/achievement/89408/path/18)
 
 [Junior Cybersecurity Analyst](https://academy.hackthebox.com/achievement/89408/path/419)
@@ -71,6 +73,8 @@ also included python script that scraps for completed achievements
 [Using Web Proxies](https://academy.hackthebox.com/achievement/89408/110)
 
 [Information Gathering - Web Edition](https://academy.hackthebox.com/achievement/89408/144)
+
+[Bug Bounty Hunting Process](https://academy.hackthebox.com/achievement/89408/161)
 
 [Introduction to Windows Command Line](https://academy.hackthebox.com/achievement/89408/167)
 
