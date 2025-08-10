@@ -120,6 +120,8 @@ also included python script that scraps for completed achievements
 
 [Server-side Attacks](https://academy.hackthebox.com/achievement/89408/145)
 
+[Password Attacks](https://academy.hackthebox.com/achievement/89408/147)
+
 [Session Security](https://academy.hackthebox.com/achievement/89408/153)
 
 [Web Service &amp; API Attacks](https://academy.hackthebox.com/achievement/89408/160)
