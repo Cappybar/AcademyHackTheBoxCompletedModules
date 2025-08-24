@@ -82,6 +82,8 @@ also included python script that scraps for completed achievements
 
 [Introduction to C#](https://academy.hackthebox.com/achievement/89408/228)
 
+[Intermediate Network Traffic Analysis](https://academy.hackthebox.com/achievement/89408/229)
+
 [Pentest in a Nutshell](https://academy.hackthebox.com/achievement/89408/296)
 
 ## Medium
