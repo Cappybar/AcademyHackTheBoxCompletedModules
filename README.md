@@ -128,6 +128,8 @@ also included python script that scraps for completed achievements
 
 [Session Security](https://academy.hackthebox.com/achievement/89408/153)
 
+[Pivoting, Tunneling, and Port Forwarding](https://academy.hackthebox.com/achievement/89408/158)
+
 [Web Service &amp; API Attacks](https://academy.hackthebox.com/achievement/89408/160)
 
 [Game Hacking Fundamentals](https://academy.hackthebox.com/achievement/89408/182)
@@ -153,4 +155,5 @@ also included python script that scraps for completed achievements
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
+
 
