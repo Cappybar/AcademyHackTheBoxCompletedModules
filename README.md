@@ -86,6 +86,8 @@ also included python script that scraps for completed achievements
 
 [Intermediate Network Traffic Analysis](https://academy.hackthebox.com/achievement/89408/229)
 
+[Web Fuzzing](https://academy.hackthebox.com/achievement/89408/280)
+
 [Pentest in a Nutshell](https://academy.hackthebox.com/achievement/89408/296)
 
 ## Medium
@@ -157,6 +159,7 @@ also included python script that scraps for completed achievements
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
+
 
 
 
