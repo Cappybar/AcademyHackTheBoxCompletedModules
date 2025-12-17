@@ -114,6 +114,8 @@ also included python script that scraps for completed achievements
 
 [Footprinting](https://academy.hackthebox.com/achievement/89408/112)
 
+[Attacking Common Applications](https://academy.hackthebox.com/achievement/89408/113)
+
 [Shells &amp; Payloads](https://academy.hackthebox.com/achievement/89408/115)
 
 [Attacking Common Services](https://academy.hackthebox.com/achievement/89408/116)
@@ -155,5 +157,6 @@ also included python script that scraps for completed achievements
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
+
 
 
