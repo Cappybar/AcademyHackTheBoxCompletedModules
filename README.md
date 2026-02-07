@@ -76,6 +76,8 @@ also included python script that scraps for completed achievements
 
 [Information Gathering - Web Edition](https://academy.hackthebox.com/achievement/89408/144)
 
+[Incident Handling Process](https://academy.hackthebox.com/achievement/89408/148)
+
 [Bug Bounty Hunting Process](https://academy.hackthebox.com/achievement/89408/161)
 
 [Introduction to Windows Command Line](https://academy.hackthebox.com/achievement/89408/167)
@@ -161,6 +163,7 @@ also included python script that scraps for completed achievements
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
+
 
 
 
