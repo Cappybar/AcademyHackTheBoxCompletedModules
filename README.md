@@ -152,6 +152,8 @@ also included python script that scraps for completed achievements
 
 [Windows Event Logs &amp; Finding Evil](https://academy.hackthebox.com/achievement/89408/216)
 
+[Understanding Log Sources & Investigating with Splunk](https://academy.hackthebox.com/achievement/89408/218)
+
 [Wi-Fi Penetration Testing Basics](https://academy.hackthebox.com/achievement/89408/222)
 
 [Brief Intro to Hardware Attacks](https://academy.hackthebox.com/achievement/89408/230)
@@ -163,6 +165,7 @@ also included python script that scraps for completed achievements
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
+
 
 
 
