@@ -140,6 +140,8 @@ also included python script that scraps for completed achievements
 
 [Web Service &amp; API Attacks](https://academy.hackthebox.com/achievement/89408/160)
 
+[Windows Attacks & Defense](https://academy.hackthebox.com/achievement/89408/176)
+
 [Game Hacking Fundamentals](https://academy.hackthebox.com/achievement/89408/182)
 
 [HTTPs/TLS Attacks](https://academy.hackthebox.com/achievement/89408/184)
@@ -165,6 +167,7 @@ also included python script that scraps for completed achievements
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
+
 
 
 
