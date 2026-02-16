@@ -158,6 +158,8 @@ also included python script that scraps for completed achievements
 
 [Wi-Fi Penetration Testing Basics](https://academy.hackthebox.com/achievement/89408/222)
 
+[Working with IDS/IPS](https://academy.hackthebox.com/achievement/89408/226)
+
 [Brief Intro to Hardware Attacks](https://academy.hackthebox.com/achievement/89408/230)
 
 [Wi-Fi Password Cracking Techniques](https://academy.hackthebox.com/achievement/89408/312)
@@ -167,6 +169,7 @@ also included python script that scraps for completed achievements
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
+
 
 
 
