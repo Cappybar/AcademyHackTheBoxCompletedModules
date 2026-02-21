@@ -88,6 +88,8 @@ also included python script that scraps for completed achievements
 
 [Intermediate Network Traffic Analysis](https://academy.hackthebox.com/achievement/89408/229)
 
+[Detecting Windows Attacks with Splunk](https://academy.hackthebox.com/achievement/89408/233)
+
 [YARA & Sigma for SOC Analysts](https://academy.hackthebox.com/achievement/89408/234)
 
 [Web Fuzzing](https://academy.hackthebox.com/achievement/89408/280)
@@ -171,6 +173,7 @@ also included python script that scraps for completed achievements
 [Introduction to Malware Analysis](https://academy.hackthebox.com/achievement/89408/227)
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
+
 
 
 
