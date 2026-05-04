@@ -172,6 +172,8 @@ also included python script that scraps for completed achievements
 
 [Introduction to Digital Forensics](https://academy.hackthebox.com/achievement/89408/237)
 
+[Prompt Injection Attacks](https://academy.hackthebox.com/achievement/89408/297)
+
 [Wi-Fi Password Cracking Techniques](https://academy.hackthebox.com/achievement/89408/312)
 
 ## Hard
