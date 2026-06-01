@@ -182,6 +182,8 @@ also included python script that scraps for completed achievements
 
 [Introduction to Windows Evasion Techniques](https://academy.hackthebox.com/achievement/89408/254)
 
+[Introduction to Binary Fuzzing](https://academy.hackthebox.com/achievement/89408/258)
+
 
 
 
